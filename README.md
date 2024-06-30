@@ -19,8 +19,6 @@ I've made this using Gimp and Upscayl.
 
 ## I use the Flatpak version of Gimp, because I can install every Plugins in one click, but you can use this on the Native Package
 
-##### I use a Photoshop like layout on Gimp, because I was a Photoshop user.
-
 <div align="left">
 
 <details>
