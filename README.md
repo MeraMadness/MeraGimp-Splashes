@@ -10,6 +10,8 @@ I've made this using Gimp and Upscayl.
 ## ⛧ Images
 
 <img align="center" src="/img/layout.webp">
+<img align="center" src="/img/layout2.webp">
+<img align="center" src="/img/layout3.webp">
 
 ### Install Steps for Flatpak Gimp and Native Package
 
