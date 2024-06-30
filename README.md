@@ -4,8 +4,8 @@ Some of my Gimp Splashes Screen, I update every week.
 
 I've made this using Gimp and Upscayl.
 
-- **Photo Editor** • [Gimp] (https://www.gimp.org/)
-- **AI Image Upscaler** • [Upscayl] (https://upscayl.org/)
+- **Photo Editor** • [Gimp](https://www.gimp.org/)
+- **AI Image Upscaler** • [Upscayl](https://upscayl.org/)
 
 ## ⛧ Images
 
